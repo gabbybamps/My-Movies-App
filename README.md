@@ -1,0 +1,1 @@
+This React App allows users to enter details of a movie into a form which is then sent (using POST) to a Firebase Realtime Database. The posted movies are then fetched and displayed on the screen. React(JS) concepts used in this app include: REST APIs, Http requests(GET and POST), Http error handling(try, catch), useEffects etc.
